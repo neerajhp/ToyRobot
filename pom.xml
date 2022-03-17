@@ -71,6 +71,8 @@
             <artifactId>checkstyle-rules</artifactId>
             <version>4.8.0</version>
           </dependency>
+
+          
         </dependencies>
         <configuration>
           <configLocation>com/github/ngeor/checkstyle.xml</configLocation>
